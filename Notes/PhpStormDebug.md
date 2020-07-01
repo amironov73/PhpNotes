@@ -2,7 +2,7 @@
 
 Рассказываю как для себя :) На примере самой свежей версии PhpStorm.
 
-Идём на страницу https://ospanel.io/download/ и скачиваем OpenSever (я взял 5.3.7 Full). Устанавливаем, например, в папку `D:\OpenServer`. Выбираем нужные модули:
+Идём на страницу https://ospanel.io/download/ и скачиваем OpenServer (я взял 5.3.7 Full). Устанавливаем, например, в папку `D:\OpenServer`. Выбираем нужные модули:
 
 ![open-server-01](img/open-server01.png)
 
